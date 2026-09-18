@@ -22,7 +22,7 @@ st.set_page_config(
 st.markdown("""
 <style>
 .stApp {
-    background-color: #15224f;
+    background-color: #2c4285;
 }
 
 [data-testid="stSidebar"] {
